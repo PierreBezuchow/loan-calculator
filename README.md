@@ -1,5 +1,5 @@
 # loan-calculator
-Simple loan calculator made to learn JS.
+Simple loan calculator created to learn JS.
 
 ###  UI built with Bootstrap
 
